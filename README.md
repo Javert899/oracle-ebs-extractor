@@ -1,6 +1,7 @@
 # oracle-ebs-extractor
 
 Extracts an object-centric event log from an instnace of Oracle EBS supported by the Oracle SQL database.
+Works with Python >= 3.9
 
 ## Installation
 
