@@ -1,0 +1,14 @@
+pm4py
+pyarrow
+Flask
+flask-cors
+setuptools
+frozendict
+jsonschema
+plantuml
+stringdist
+cx_Oracle
+plantuml
+frozendict
+pymssql
+sqlparse
